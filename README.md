@@ -7,7 +7,7 @@ The repository contains the following:
 - Notebook about the Exploratory Data Analysis of the data provided with the movielens database as well as trying out different algorithms for models
 - Notebook containing how to get new users to supply ratings to address the cold start problem and using those inital ratings to recommend 5 movies
 - The data from movielens (ratings.csv, movies.csv, tags.csv, links.csv)
-- The subsample of data I used by filtering out users that had not rated more than 50 movies and movies that had less ratings. (limited_user_ratings.csv, popular_movies.csv)
+- The subsample of data I used by filtering out users that had not rated more than 50 movies and movies that had less ratings. (ratings_limited_users.csv, popular_movies.csv)
 
 In the end I found SVD to be the most accurate algorithm.
 
