@@ -11,4 +11,6 @@ The repository contains the following:
 
 In the end I found SVD to be the most accurate algorithm.
 
+I addressed the cold start problem by giving new users a way to give their ratings to movies and then return 5 movie recommendations based on their ratings.  I was able to improve this process by reducing the random list of movies that they would be asked to rate to be from the most popular movies or movies that had received the most ratings.  This was to ensure that new users wouldn't be bogged down with having to go through their rating submissions filled with obscure movie titles.
+
 Also included is an executive summary presentation.
