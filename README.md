@@ -32,5 +32,5 @@ Also included is an [summary presentation](https://github.com/roweyerboat/Recomm
 Here is the link to the blog I wrote while completing this project: https://roweyerboat.github.io/the_helpful_library_of_surprise
 
 ## Contact Information
-[Github](https://github.com/roweyerboat)
+[Github](https://github.com/roweyerboat) <br />
 [LinkedIn](https://www.linkedin.com/in/amanda-rowe-data/)
